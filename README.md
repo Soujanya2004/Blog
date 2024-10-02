@@ -1,3 +1,3 @@
-getting started: npm install
-                 create .env file with localhost mongodb url
-                 npm run dev
+getting started:1) npm install
+                 2) create .env file with localhost mongodb url
+                 3) npm run dev
